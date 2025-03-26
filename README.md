@@ -1,3 +1,4 @@
-# Hi 👋everyone, my name is Valentin and I’m doing a lot of small projects.
-![giphy](https://github.com/user-attachments/assets/b4beaecf-cbe5-463a-9503-2d1bf850a7f8)
+## Hi 👋everyone, my name is Valentin and I’m doing a lot of small projects.
+![giphy (1)](https://github.com/user-attachments/assets/1ca6eb64-c77d-4c05-a3da-fc0f9fa2504c)
+
 
